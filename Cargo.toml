@@ -1,0 +1,8 @@
+[package]
+name = "casper-copy-key"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+casper-types = "4"
+casper-contract = "4"
